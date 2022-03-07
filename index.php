@@ -66,13 +66,14 @@
       }
     </style>
   </head>
-  <body style="background-color:#ffd3b2">
+  <body style="background-color:#F0F8FF">
     <!-- คอนเทนเนอร์ -->
     <div class="container">
       <div id="container">
       <div class="row">
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
+          <br><br>
           <h1>
             ขอนแก่น
           </h1>
