@@ -73,6 +73,12 @@
       <div class="row">
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
+          <h3>
+            ขอนแก่น
+          </h3>
+          <h3>
+            Khon Kaen
+          </h3>
         </div>
       </div>
       <div class="row">
