@@ -73,7 +73,7 @@
       <div class="row">
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
-          <br><br>
+          <br>
           <h1>
             ขอนแก่น
           </h1>
