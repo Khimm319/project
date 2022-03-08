@@ -11,7 +11,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-    <title>Nakhon Si Thammarat Project</title>
+    <title>Khon Kaen Project</title>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Sarabun"
@@ -26,7 +26,7 @@
       }
       #header {
         height: 160px;
-        background-image: url("P18.png");
+        background-image: url("P1.jpg");
         background-size:100%;
       }
       #sidebar {
@@ -66,25 +66,32 @@
       }
     </style>
   </head>
-  <body style="background-color:#ffd3b2">
+  <body style="background-color:#F0F8FF">
     <!-- คอนเทนเนอร์ -->
     <div class="container">
       <div id="container">
       <div class="row">
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
+          <br>
+          <h1>
+            ขอนแก่น
+          </h1>
+          <h2>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Khon Kaen
+          </h2>
         </div>
       </div>
       <div class="row">
         <div class="col-2" id="sidebar">
           <!-- ไซด์บาร์ -->
           <ul>
-            <li><a href="https://number6-11.herokuapp.com/">หน้าแรก</a></li>
-            <li><a href="https://number6-11.herokuapp.com/page=1.php">แหล่งท่องเที่ยว</a></li> 
-            <li><a href="https://number6-11.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
-            <li><a href="https://number6-11.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
-            <li><a href="https://number6-11.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>       
-          </ul>
+            <li><a href="https://girl-7.herokuapp.com/">หน้าแรก</a></li>
+            <li><a href="https://girl-7.herokuapp.com/page=1.php">แหล่งท่องเที่ยว</a></li> 
+            <li><a href="https://girl-7.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
+            <li><a href="https://girl-7.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
+            <li><a href="https://girl-7.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
+         </ul>
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
@@ -92,30 +99,30 @@
             อารหารประจำท้องถิ่น
          </h4><br>
           <h5>
-            1.ขนมจีนน้ำยาเส้นสด
+            1.หมกลาบปลาตอง
           </h5><br>
         <center><img src="P12.png" class="img-fluid rounded"></center>
           <br>
                <h5>
-            2.ข้าวยำ
+            2.ซุบหน่อไม้
           </h5><br>
                <center><img src="P13.png" class="img-fluid rounded"></center>
           <br>
          
           <h5>
-            3.แกงส้ม
+            3.ต้มยำกบ
             </h5><br>
                <center><img src="P14.png" class="img-fluid rounded"></center>
           <br>
           
           <h5>
-            4.คั่วกลิ้ง
+            4.ก้อยกุ้ง
           </h5><br>
                <center><img src="P15.png" class="img-fluid rounded"></center>
           <br>
          
           <h5>
-            5.แกงไตปลา
+            5.แกงผักหวานไข่มดแดง
           </h5><br>
                <center><img src="P16.png" class="img-fluid rounded"></center>
           <br>
