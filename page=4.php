@@ -101,40 +101,40 @@
           <h5>
             1.นาย นราวิชญ์ กายา ม.5/13เลขที่ 12
           </h5><br>
-        <center><img src="31266.jpg" class="img-fluid rounded"></center>
+        <center><img src="31266.jpg" width: "60%" class="img-fluid rounded"></center>
           <br>
                <h5>
             2.นางสาว นภัทรกมล ยอดมา ม.5/13 เลขที่ 14
           </h5><br>
-               <center><img src="31267.jpg" class="img-fluid rounded"></center>
+               <center><img src="31267.jpg" width: "60%" class="img-fluid rounded"></center>
           <br>
          
           <h5>
             3.นางสาว ศิรภรณ์ สิงห์ทา ม.5/13 เลขที่ 16
             </h5><br>
-               <center><img src="31268.jpg" class="img-fluid rounded"></center>
+               <center><img src="31268.jpg" width: "60%" class="img-fluid rounded"></center>
           <br>
           
           <h5>
             4.นางสาว อรปรียา มาลา ม.5/13 เลขที่ 17
           </h5><br>
-               <center><img src="31269.jpg" class="img-fluid rounded"></center>
+               <center><img src="31269.jpg" width: "60%" class="img-fluid rounded"></center>
           <br>
          
           <h5>
             5.นางสาว ดุษฎี รอดชู ม.5/13 เลขที่ 28
           </h5><br>
-               <center><img src="31270.jpg" class="img-fluid rounded"></center>
+               <center><img src="31270.jpg" width: "60%" class="img-fluid rounded"></center>
           <br>
           <h5>
             6.นางสาว โชติกา สุทธิโสม ม.5/13 เลขที่ 30
           </h5><br>
-               <center><img src="31271.jpg" class="img-fluid rounded"></center>
+               <center><img src="31271.jpg" width: "60%" class="img-fluid rounded"></center>
           <br>
                     <h5>
             6.นางสาว ชวิศา เชื้อสกุลวานิช ม.5/13 เลขที่ 31
           </h5><br>
-               <center><img src="31272.jpg" class="img-fluid rounded"></center>
+               <center><img src="31272.jpg" width: "60%" class="img-fluid rounded"></center>
           <br>
 
       </div>
